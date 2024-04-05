@@ -11,17 +11,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B5FC3FB6-5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External", "External", "{F01D3A04-C8E3-462A-A207-6793783C1FA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMuhasebeServer.Application", "OnlineMuhasebeServer.Application\OnlineMuhasebeServer.Application.csproj", "{6E96FEE1-539F-46F3-9F0C-69337DC2AF28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMuhasebeServer.Application", "OnlineMuhasebeServer.Application\OnlineMuhasebeServer.Application.csproj", "{6E96FEE1-539F-46F3-9F0C-69337DC2AF28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMuhasebeServer.Domain", "OnlineMuhasebeServer.Domain\OnlineMuhasebeServer.Domain.csproj", "{B747C131-3F6F-4848-B238-450E3A7B4BF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMuhasebeServer.Domain", "OnlineMuhasebeServer.Domain\OnlineMuhasebeServer.Domain.csproj", "{B747C131-3F6F-4848-B238-450E3A7B4BF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMuhasebeServer.Infrastructure", "OnlineMuhasebeServer.Infrastructure\OnlineMuhasebeServer.Infrastructure.csproj", "{25563413-593F-418F-81E6-73C20A1EABFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMuhasebeServer.Infrastructure", "OnlineMuhasebeServer.Infrastructure\OnlineMuhasebeServer.Infrastructure.csproj", "{25563413-593F-418F-81E6-73C20A1EABFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMuhasebeServer.Persistance", "OnlineMuhasebeServer.Persistance\OnlineMuhasebeServer.Persistance.csproj", "{1EA167D3-0741-46EB-9CD3-40DBD81AB642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMuhasebeServer.Persistance", "OnlineMuhasebeServer.Persistance\OnlineMuhasebeServer.Persistance.csproj", "{1EA167D3-0741-46EB-9CD3-40DBD81AB642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMuhasebeServer.Presentation", "OnlineMuhasebeServer.Presentation\OnlineMuhasebeServer.Presentation.csproj", "{68575855-4CDE-4AD6-B462-8471A2B2FEE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMuhasebeServer.Presentation", "OnlineMuhasebeServer.Presentation\OnlineMuhasebeServer.Presentation.csproj", "{68575855-4CDE-4AD6-B462-8471A2B2FEE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMuhasebeServer.WebApi", "OnlineMuhasebeServer.WebApi\OnlineMuhasebeServer.WebApi.csproj", "{3CDF57B3-4BBE-4B00-A6EB-FFF39D615F8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineMuhasebeServer.WebApi", "OnlineMuhasebeServer.WebApi\OnlineMuhasebeServer.WebApi.csproj", "{3CDF57B3-4BBE-4B00-A6EB-FFF39D615F8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
